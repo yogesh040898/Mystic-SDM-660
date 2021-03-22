@@ -1,5 +1,5 @@
 /*
- * Functions related to setting various queue properties from drivers
+ * Functions related to setting various queue properties from drivers.
  */
 #include <linux/kernel.h>
 #include <linux/module.h>
