@@ -1,5 +1,5 @@
 /*
- * common LSM auditing functions
+ * common LSM auditing functions.
  *
  * Based on code written for SELinux by :
  *			Stephen Smalley, <sds@epoch.ncsc.mil>
