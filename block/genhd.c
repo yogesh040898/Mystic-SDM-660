@@ -1,5 +1,5 @@
 /*
- *  gendisk handling
+ *  gendisk handling.
  */
 
 #include <linux/module.h>
