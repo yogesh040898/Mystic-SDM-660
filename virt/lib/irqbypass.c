@@ -1,5 +1,5 @@
 /*
- * IRQ offload/bypass manager
+ * IRQ offload/bypass manager.
  *
  * Copyright (C) 2015 Red Hat, Inc.
  * Copyright (c) 2015 Linaro Ltd.
