@@ -335,7 +335,7 @@ void xtensa_elf_core_copy_regs (xtensa_gregset_t *elfregs, struct pt_regs *regs)
 
 	memset(elfregs, 0, sizeof(*elfregs));
 
-	/* Note:  PS.EXCM is not set while user task is running; its
+	/* Note:  PS.EXCM is not set while user task is running; its.
 	 * being set in regs->ps is for exception handling convenience.
 	 */
 

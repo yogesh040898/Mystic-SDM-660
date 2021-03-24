@@ -2129,7 +2129,7 @@ config PAGE_SIZE_32KB
 	  Using 32kB page size will result in higher performance kernel at
 	  the price of higher memory consumption.  This option is available
 	  only on cnMIPS cores.  Note that you will need a suitable Linux
-	  distribution to support this.
+	  distribution to support this..
 
 config PAGE_SIZE_64KB
 	bool "64kB"

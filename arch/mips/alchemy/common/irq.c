@@ -960,7 +960,7 @@ static void __init alchemy_gpic_init_irq(const struct alchemy_irqmap *dints)
 	irq_set_chained_handler(MIPS_CPU_IRQ_BASE + 5, alchemy_gpic_dispatch);
 }
 
-/******************************************************************************/
+/*******************************************************************************/
 
 void __init arch_init_irq(void)
 {
